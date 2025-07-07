@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+streamlit
+sentence-transformers
+chromadb
+numpy
+scikit-learn
